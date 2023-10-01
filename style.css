@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    background-image: url("back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+text-align: center;
+}
+img{
+    width: 400px;
+}
+.head{
+    background-color: rgb(203, 203, 193);
+}
+input{
+    padding: 15px 35px;
+    background-color: rgb(148, 148, 109);
+}
